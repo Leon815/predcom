@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<DynamicNetwork xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation = "DyNetML.xsd">
+<MetaNetwork>
+<nodes>
+<nodeclass type = "author" id = "author" >
+<node id="0">
+<properties>
+<property name="name" type="string" value="Pera"/>
+</properties>
+</node>
+<node id="1">
+<properties>
+<property name="name" type="string" value="Uva"/>
+</properties>
+</node>
+<node id="2">
+<properties>
+<property name="name" type="string" value="Banana"/>
+</properties>
+</node>
+<node id="3">
+<properties>
+<property name="name" type="string" value="Morango"/>
+</properties>
+</node>
+</nodeclass >
+</nodes>
+<networks>
+<network sourceType = "author" targetType = "author" id = "author x author" isDirected = "false">
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2013"/>
+</properties>
+</link>
+<link source="1" target="2">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2014"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2015"/>
+</properties>
+</link>
+<link source="3" target="0">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+</network>
+</networks>
+</MetaNetwork>
+</DynamicNetwork>

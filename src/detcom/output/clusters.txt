@@ -1,0 +1,6 @@
+cluster: 0
+set([u'grafos']) 2013
+set([u'Redes']) 2015
+cluster: 1
+set([u'IA']) 2014
+set([u'Redes']) 2012
