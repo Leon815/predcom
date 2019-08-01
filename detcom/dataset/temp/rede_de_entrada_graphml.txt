@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="ano" attr.type="int" for="edge" id="d1" />
+  <key attr.name="palavra-chave" attr.type="string" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Pera" />
+    <node id="Uva" />
+    <node id="Banana" />
+    <node id="Morango" />
+    <node id="Goiaba" />
+
+    <edge source="Pera" target="Uva">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2013</data>
+    </edge>
+
+    <edge source="Uva" target="Banana">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2014</data>
+    </edge>
+
+    <edge source="Banana" target="Morango">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2015</data>
+    </edge>
+	
+    <edge source="Morango" target="Pera">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+  </graph>
+</graphml>

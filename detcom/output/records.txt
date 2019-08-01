@@ -1,0 +1,1167 @@
+author,0-author,1|   set([u'hep-th', u'hep-lat'])   0
+author,0-author,2|   set([u'hep-th'])   0
+author,0-author,3|   set([u'hep-th'])   0
+author,4-author,5|   set([u'hep-th'])   0
+author,4-author,6|   set([u'hep-th'])   0
+author,7-author,8|   set([u'hep-th'])   0
+author,7-author,9|   set([u'hep-th'])   0
+author,10-author,11|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,10-author,12|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,13-author,14|   set([u'cond-mat', u'hep-th'])   0
+author,13-author,15|   set([u'hep-th'])   0
+author,16-author,17|   set([u'hep-th', u'gr-qc'])   0
+author,18-author,19|   set([u'cond-mat', u'hep-th'])   0
+author,18-author,20|   set([u'hep-th'])   0
+author,18-author,21|   set([u'hep-th'])   0
+author,18-author,22|   set([u'hep-th'])   0
+author,18-author,23|   set([u'hep-th'])   0
+author,24-author,25|   set([u'hep-th'])   0
+author,24-author,26|   set([u'hep-th'])   0
+author,27-author,28|   set([u'hep-th', u'hep-ph'])   0
+author,29-author,30|   set([u'hep-th'])   0
+author,31-author,32|   set([u'hep-th'])   0
+author,31-author,33|   set([u'hep-th'])   0
+author,31-author,34|   set([u'hep-th'])   0
+author,35-author,36|   set([u'hep-th'])   0
+author,37-author,38|   set([u'hep-th'])   0
+author,37-author,39|   set([u'hep-th'])   0
+author,37-author,40|   set([u'hep-th', u'gr-qc'])   0
+author,37-author,41|   set([u'hep-th'])   0
+author,42-author,43|   set([u'hep-th'])   0
+author,42-author,44|   set([u'hep-th'])   0
+author,42-author,45|   set([u'hep-th'])   0
+author,46-author,47|   set([u'hep-th', u'math.FA', u'funct-an'])   0
+author,48-author,49|   set([u'hep-th'])   0
+author,50-author,51|   set([u'hep-th'])   0
+author,50-author,52|   set([u'hep-th'])   0
+author,50-author,53|   set([u'hep-th'])   0
+author,54-author,55|   set([u'hep-th'])   0
+author,56-author,57|   set([u'hep-th', u'gr-qc'])   0
+author,56-author,58|   set([u'hep-th'])   0
+author,56-author,59|   set([u'hep-th', u'gr-qc'])   0
+author,56-author,60|   set([u'hep-th', u'gr-qc'])   0
+author,56-author,61|   set([u'hep-th'])   0
+author,56-author,62|   set([u'hep-th'])   0
+author,56-author,63|   set([u'hep-th'])   0
+author,56-author,64|   set([u'hep-th'])   0
+author,56-author,65|   set([u'hep-th'])   0
+author,66-author,39|   set([u'hep-th'])   0
+author,66-author,67|   set([u'hep-th', u'hep-ph'])   0
+author,68-author,69|   set([u'hep-th'])   0
+author,70-author,61|   set([u'hep-th'])   0
+author,71-author,72|   set([u'hep-th', u'hep-ph'])   0
+author,71-author,73|   set([u'hep-th', u'hep-ph'])   0
+author,71-author,74|   set([u'hep-th', u'gr-qc'])   0
+author,75-author,76|   set([u'hep-th'])   0
+author,75-author,77|   set([u'hep-th'])   0
+author,75-author,78|   set([u'hep-th'])   0
+author,75-author,79|   set([u'hep-th'])   0
+author,80-author,81|   set([u'hep-th', u'hep-ph'])   0
+author,82-author,83|   set([u'hep-th'])   0
+author,84-author,85|   set([u'hep-th'])   0
+author,86-author,87|   set([u'hep-th'])   0
+author,86-author,88|   set([u'hep-th'])   0
+author,86-author,89|   set([u'hep-th'])   0
+author,90-author,91|   set([u'hep-th', u'gr-qc'])   0
+author,90-author,92|   set([u'hep-th'])   0
+author,90-author,93|   set([u'hep-th'])   0
+author,90-author,94|   set([u'hep-th'])   0
+author,90-author,95|   set([u'hep-th'])   0
+author,90-author,17|   set([u'hep-th', u'gr-qc'])   0
+author,96-author,95|   set([u'hep-th'])   0
+author,96-author,39|   set([u'hep-th'])   0
+author,97-author,98|   set([u'hep-th'])   0
+author,97-author,99|   set([u'hep-th'])   0
+author,97-author,100|   set([u'hep-th'])   0
+author,97-author,101|   set([u'hep-th'])   0
+author,102-author,103|   set([u'hep-th'])   0
+author,104-author,105|   set([u'hep-th'])   0
+author,104-author,106|   set([u'hep-th'])   0
+author,107-author,108|   set([u'hep-th', u'gr-qc'])   0
+author,107-author,109|   set([u'hep-th', u'gr-qc'])   0
+author,107-author,110|   set([u'hep-th', u'gr-qc'])   0
+author,111-author,112|   set([u'hep-th'])   0
+author,113-author,114|   set([u'hep-th', u'quant-ph'])   0
+author,115-author,116|   set([u'hep-th'])   0
+author,115-author,117|   set([u'hep-th'])   0
+author,118-author,119|   set([u'hep-th'])   0
+author,118-author,120|   set([u'hep-th'])   0
+author,121-author,122|   set([u'cond-mat', u'hep-th'])   0
+author,121-author,123|   set([u'hep-th', u'hep-ph'])   0
+author,124-author,125|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,126-author,127|   set([u'hep-th'])   0
+author,126-author,128|   set([u'hep-th'])   0
+author,126-author,129|   set([u'hep-th'])   0
+author,11-author,130|   set([u'hep-th'])   0
+author,11-author,131|   set([u'hep-th'])   0
+author,11-author,132|   set([u'hep-th', u'gr-qc'])   0
+author,11-author,133|   set([u'hep-th'])   0
+author,134-author,135|   set([u'hep-th'])   0
+author,134-author,136|   set([u'hep-th'])   0
+author,137-author,138|   set([u'cond-mat', u'hep-th'])   0
+author,139-author,140|   set([u'hep-th', u'math.QA'])   0
+author,139-author,141|   set([u'hep-th', u'math.QA'])   0
+author,142-author,143|   set([u'hep-th'])   0
+author,142-author,144|   set([u'hep-th'])   0
+author,145-author,146|   set([u'hep-th', u'hep-lat'])   0
+author,145-author,147|   set([u'hep-th'])   0
+author,148-author,149|   set([u'hep-th'])   0
+author,150-author,61|   set([u'hep-th'])   0
+author,150-author,17|   set([u'hep-th', u'gr-qc'])   0
+author,151-author,152|   set([u'hep-th', u'math.DG', u'math.QA', u'dg-ga', u'q-alg'])   0
+author,151-author,153|   set([u'math.MP', u'hep-th', u'math-ph', u'q-alg', u'math.QA'])   0
+author,151-author,154|   set([u'math.MP', u'hep-th', u'math-ph', u'q-alg', u'math.QA'])   0
+author,151-author,155|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,156-author,157|   set([u'hep-th', u'gr-qc'])   0
+author,156-author,158|   set([u'hep-th'])   0
+author,156-author,159|   set([u'hep-th'])   0
+author,156-author,160|   set([u'hep-th'])   0
+author,161-author,162|   set([u'hep-th'])   0
+author,161-author,62|   set([u'hep-th'])   0
+author,161-author,60|   set([u'hep-th'])   0
+author,161-author,163|   set([u'hep-th'])   0
+author,161-author,76|   set([u'hep-th'])   0
+author,161-author,164|   set([u'hep-th'])   0
+author,161-author,165|   set([u'hep-th'])   0
+author,161-author,166|   set([u'hep-th'])   0
+author,161-author,167|   set([u'hep-th'])   0
+author,168-author,169|   set([u'cond-mat', u'hep-th'])   0
+author,170-author,171|   set([u'hep-th'])   0
+author,9-author,172|   set([u'hep-th'])   0
+author,173-author,174|   set([u'hep-th', u'hep-lat'])   0
+author,173-author,175|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,176-author,177|   set([u'hep-th'])   0
+author,176-author,169|   set([u'hep-th'])   0
+author,176-author,178|   set([u'cond-mat', u'hep-th'])   0
+author,176-author,179|   set([u'cond-mat', u'hep-th'])   0
+author,180-author,181|   set([u'hep-th'])   0
+author,180-author,182|   set([u'hep-th', u'hep-ph'])   0
+author,180-author,183|   set([u'hep-th'])   0
+author,184-author,185|   set([u'hep-th', u'gr-qc'])   0
+author,184-author,186|   set([u'hep-th', u'gr-qc'])   0
+author,187-author,146|   set([u'hep-th'])   0
+author,187-author,188|   set([u'hep-th'])   0
+author,187-author,189|   set([u'hep-th'])   0
+author,190-author,191|   set([u'hep-th'])   0
+author,192-author,193|   set([u'hep-th'])   0
+author,192-author,194|   set([u'hep-th'])   0
+author,195-author,196|   set([u'hep-th'])   0
+author,195-author,103|   set([u'hep-th'])   0
+author,51-author,6|   set([u'hep-th'])   0
+author,51-author,197|   set([u'hep-th'])   0
+author,51-author,198|   set([u'hep-th'])   0
+author,51-author,199|   set([u'hep-th'])   0
+author,103-author,196|   set([u'hep-th'])   0
+author,200-author,62|   set([u'hep-th'])   0
+author,201-author,202|   set([u'hep-th', u'hep-ph'])   0
+author,201-author,203|   set([u'hep-th', u'hep-ph'])   0
+author,57-author,59|   set([u'hep-th', u'gr-qc'])   0
+author,57-author,60|   set([u'hep-th', u'gr-qc'])   0
+author,204-author,205|   set([u'hep-th'])   0
+author,204-author,155|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,204-author,206|   set([u'hep-th'])   0
+author,207-author,208|   set([u'hep-th'])   0
+author,207-author,209|   set([u'hep-th'])   0
+author,210-author,211|   set([u'cond-mat', u'hep-th', u'gr-qc'])   0
+author,210-author,212|   set([u'cond-mat', u'hep-th', u'hep-ph'])   0
+author,213-author,214|   set([u'hep-th', u'gr-qc'])   0
+author,32-author,215|   set([u'hep-th'])   0
+author,32-author,216|   set([u'hep-th'])   0
+author,217-author,218|   set([u'hep-th'])   0
+author,217-author,55|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,217-author,219|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,220-author,221|   set([u'hep-th', u'hep-ph'])   0
+author,220-author,222|   set([u'hep-th', u'hep-ph'])   0
+author,220-author,223|   set([u'hep-th', u'hep-ph'])   0
+author,224-author,225|   set([u'cond-mat', u'hep-th'])   0
+author,224-author,226|   set([u'hep-th'])   0
+author,227-author,228|   set([u'hep-th'])   0
+author,229-author,230|   set([u'hep-th', u'hep-ph'])   0
+author,231-author,232|   set([u'hep-th'])   0
+author,231-author,233|   set([u'hep-th'])   0
+author,231-author,234|   set([u'hep-th', u'hep-ph'])   0
+author,231-author,235|   set([u'hep-th'])   0
+author,231-author,236|   set([u'hep-th'])   0
+author,237-author,238|   set([u'hep-th'])   0
+author,237-author,239|   set([u'hep-th'])   0
+author,240-author,241|   set([u'hep-th'])   0
+author,240-author,242|   set([u'hep-th'])   0
+author,240-author,158|   set([u'hep-th'])   0
+author,240-author,243|   set([u'hep-th'])   0
+author,244-author,245|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,244-author,246|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,244-author,247|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,248-author,249|   set([u'hep-th'])   0
+author,250-author,251|   set([u'hep-th', u'hep-ph'])   0
+author,250-author,252|   set([u'hep-th', u'hep-ph'])   0
+author,250-author,253|   set([u'hep-th', u'nucl-th', u'gr-qc', u'hep-ph'])   0
+author,254-author,255|   set([u'hep-th'])   0
+author,256-author,63|   set([u'hep-th'])   0
+author,257-author,258|   set([u'cond-mat', u'hep-th', u'quant-ph', u'supr-con'])   0
+author,257-author,259|   set([u'cond-mat', u'hep-th', u'quant-ph', u'supr-con'])   0
+author,260-author,261|   set([u'hep-ex', u'hep-th', u'hep-ph'])   0
+author,260-author,262|   set([u'hep-ex', u'hep-th', u'hep-ph'])   0
+author,263-author,264|   set([u'hep-th'])   0
+author,265-author,266|   set([u'hep-th'])   0
+author,265-author,267|   set([u'hep-th'])   0
+author,265-author,268|   set([u'hep-th'])   0
+author,269-author,270|   set([u'hep-th'])   0
+author,269-author,271|   set([u'hep-th', u'hep-ph'])   0
+author,272-author,273|   set([u'hep-th', u'gr-qc'])   0
+author,274-author,275|   set([u'hep-th'])   0
+author,274-author,276|   set([u'hep-th'])   0
+author,274-author,277|   set([u'hep-th', u'gr-qc'])   0
+author,278-author,279|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,278-author,280|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,278-author,281|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,278-author,282|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,283-author,284|   set([u'hep-th'])   0
+author,283-author,285|   set([u'hep-th'])   0
+author,286-author,287|   set([u'hep-th'])   0
+author,288-author,289|   set([u'hep-th'])   0
+author,288-author,290|   set([u'hep-th'])   0
+author,288-author,291|   set([u'hep-th', u'math.QA', u'q-alg'])   0
+author,288-author,292|   set([u'hep-th', u'math.QA', u'q-alg'])   0
+author,116-author,117|   set([u'hep-th'])   0
+author,135-author,293|   set([u'hep-th', u'gr-qc'])   0
+author,135-author,136|   set([u'hep-th'])   0
+author,294-author,295|   set([u'hep-th', u'hep-ph'])   0
+author,296-author,297|   set([u'hep-th', u'hep-ph'])   0
+author,298-author,299|   set([u'hep-th', u'gr-qc'])   0
+author,300-author,301|   set([u'hep-th', u'quant-ph', u'hep-ph'])   0
+author,300-author,302|   set([u'hep-th', u'quant-ph', u'hep-ph'])   0
+author,197-author,303|   set([u'hep-th'])   0
+author,197-author,6|   set([u'hep-th'])   0
+author,197-author,198|   set([u'hep-th'])   0
+author,304-author,305|   set([u'hep-th', u'nucl-th', u'hep-ph'])   0
+author,304-author,306|   set([u'hep-th'])   0
+author,307-author,308|   set([u'hep-th', u'math.QA', u'q-alg'])   0
+author,307-author,309|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,307-author,310|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,311-author,312|   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+author,311-author,313|   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+author,311-author,314|   set([u'hep-th'])   0
+author,311-author,315|   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+author,316-author,21|   set([u'hep-th'])   0
+author,169-author,317|   set([u'hep-th', u'gr-qc'])   0
+author,182-author,318|   set([u'hep-th', u'hep-ph'])   0
+author,319-author,320|   set([u'hep-th', u'cond-mat.stat-mech'])   0
+author,321-author,322|   set([u'hep-th'])   0
+author,321-author,323|   set([u'hep-th'])   0
+author,324-author,325|   set([u'hep-th'])   0
+author,324-author,326|   set([u'hep-th'])   0
+author,324-author,327|   set([u'hep-th'])   0
+author,324-author,328|   set([u'hep-th'])   0
+author,324-author,329|   set([u'hep-th'])   0
+author,330-author,159|   set([u'hep-th'])   0
+author,330-author,158|   set([u'hep-th'])   0
+author,330-author,331|   set([u'hep-th', u'math.QA'])   0
+author,330-author,332|   set([u'hep-th'])   0
+author,330-author,333|   set([u'hep-th', u'math.AG'])   0
+author,330-author,334|   set([u'hep-th', u'math.QA'])   0
+author,330-author,41|   set([u'hep-th'])   0
+author,335-author,336|   set([u'hep-th', u'gr-qc'])   0
+author,39-author,337|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,39-author,242|   set([u'hep-th'])   0
+author,39-author,338|   set([u'hep-th'])   0
+author,39-author,339|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,39-author,340|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,39-author,41|   set([u'hep-th'])   0
+author,39-author,341|   set([u'hep-th'])   0
+author,39-author,342|   set([u'hep-th'])   0
+author,39-author,343|   set([u'hep-th'])   0
+author,253-author,344|   set([u'cond-mat', u'hep-th'])   0
+author,253-author,282|   set([u'hep-th'])   0
+author,253-author,345|   set([u'cond-mat', u'hep-th'])   0
+author,346-author,347|   set([u'hep-th'])   0
+author,346-author,348|   set([u'hep-th'])   0
+author,40-author,349|   set([u'hep-th', u'gr-qc'])   0
+author,350-author,351|   set([u'hep-th'])   0
+author,350-author,352|   set([u'hep-th'])   0
+author,353-author,354|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,194-author,193|   set([u'hep-th'])   0
+author,243-author,355|   set([u'hep-th'])   0
+author,243-author,356|   set([u'hep-th'])   0
+author,101-author,98|   set([u'hep-th'])   0
+author,101-author,357|   set([u'hep-th', u'gr-qc'])   0
+author,358-author,359|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,360-author,361|   set([u'hep-th'])   0
+author,362-author,363|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,362-author,364|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,15-author,219|   set([u'hep-th'])   0
+author,15-author,365|   set([u'hep-th'])   0
+author,15-author,366|   set([u'hep-th'])   0
+author,15-author,367|   set([u'hep-th'])   0
+author,368-author,369|   set([u'hep-th'])   0
+author,368-author,370|   set([u'hep-th'])   0
+author,371-author,372|   set([u'hep-th'])   0
+author,371-author,373|   set([u'hep-th'])   0
+author,371-author,374|   set([u'hep-th'])   0
+author,371-author,375|   set([u'hep-th', u'hep-ph'])   0
+author,371-author,376|   set([u'hep-th'])   0
+author,377-author,378|   set([u'hep-th'])   0
+author,379-author,19|   set([u'cond-mat', u'hep-th'])   0
+author,379-author,380|   set([u'cond-mat', u'hep-th'])   0
+author,381-author,382|   set([u'cond-mat', u'hep-th'])   0
+author,381-author,383|   set([u'cond-mat', u'hep-th'])   0
+author,381-author,384|   set([u'cond-mat', u'hep-th'])   0
+author,230-author,385|   set([u'hep-th', u'hep-ph'])   0
+author,230-author,386|   set([u'hep-th', u'hep-ph'])   0
+author,387-author,20|   set([u'hep-th'])   0
+author,387-author,388|   set([u'hep-th'])   0
+author,389-author,390|   set([u'hep-th'])   0
+author,389-author,391|   set([u'hep-th'])   0
+author,392-author,44|   set([u'hep-th'])   0
+author,392-author,393|   set([u'hep-th'])   0
+author,394-author,395|   set([u'hep-th'])   0
+author,5-author,396|   set([u'hep-th'])   0
+author,247-author,397|   set([u'hep-th'])   0
+author,247-author,398|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,247-author,399|   set([u'hep-th', u'gr-qc'])   0
+author,247-author,400|   set([u'hep-th'])   0
+author,247-author,401|   set([u'hep-th'])   0
+author,402-author,403|   set([u'hep-th'])   0
+author,402-author,73|   set([u'hep-th'])   0
+author,402-author,404|   set([u'hep-th'])   0
+author,402-author,63|   set([u'hep-th'])   0
+author,402-author,405|   set([u'hep-th'])   0
+author,205-author,406|   set([u'hep-th', u'gr-qc'])   0
+author,205-author,93|   set([u'hep-th'])   0
+author,205-author,206|   set([u'hep-th'])   0
+author,20-author,407|   set([u'hep-th'])   0
+author,408-author,409|   set([u'hep-th', u'hep-ph'])   0
+author,410-author,411|   set([u'hep-th'])   0
+author,410-author,412|   set([u'hep-th'])   0
+author,413-author,414|   set([u'hep-th'])   0
+author,413-author,21|   set([u'hep-th'])   0
+author,415-author,416|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,415-author,275|   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+author,417-author,418|   set([u'hep-th'])   0
+author,417-author,419|   set([u'hep-th'])   0
+author,420-author,421|   set([u'hep-th', u'math.QA', u'q-alg'])   0
+author,53-author,198|   set([u'hep-th'])   0
+author,53-author,199|   set([u'hep-th'])   0
+author,277-author,422|   set([u'hep-th', u'gr-qc'])   0
+author,277-author,423|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,277-author,424|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,425-author,426|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,427-author,428|   set([u'hep-th'])   0
+author,427-author,429|   set([u'hep-th'])   0
+author,427-author,430|   set([u'hep-th'])   0
+author,431-author,432|   set([u'hep-th', u'hep-ph'])   0
+author,431-author,433|   set([u'hep-th', u'hep-ph'])   0
+author,434-author,435|   set([u'hep-th'])   0
+author,436-author,437|   set([u'hep-th'])   0
+author,436-author,438|   set([u'hep-th'])   0
+author,439-author,175|   set([u'cond-mat', u'hep-th'])   0
+author,440-author,363|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,440-author,364|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,441-author,442|   set([u'hep-th'])   0
+author,443-author,444|   set([u'hep-th', u'hep-lat'])   0
+author,443-author,445|   set([u'hep-th', u'hep-lat'])   0
+author,443-author,446|   set([u'hep-th', u'hep-lat'])   0
+author,165-author,60|   set([u'hep-th'])   0
+author,165-author,62|   set([u'hep-th'])   0
+author,165-author,164|   set([u'hep-th'])   0
+author,165-author,63|   set([u'hep-th'])   0
+author,447-author,448|   set([u'hep-th'])   0
+author,447-author,449|   set([u'hep-th'])   0
+author,447-author,450|   set([u'hep-th'])   0
+author,357-author,98|   set([u'hep-th', u'gr-qc'])   0
+author,451-author,452|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,451-author,453|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,451-author,454|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,396-author,455|   set([u'hep-th'])   0
+author,456-author,225|   set([u'cond-mat', u'hep-th'])   0
+author,456-author,226|   set([u'hep-th'])   0
+author,388-author,457|   set([u'hep-th'])   0
+author,388-author,458|   set([u'hep-th'])   0
+author,388-author,163|   set([u'hep-th'])   0
+author,457-author,21|   set([u'hep-th'])   0
+author,457-author,459|   set([u'hep-th'])   0
+author,460-author,461|   set([u'hep-th', u'math.QA'])   0
+author,460-author,462|   set([u'hep-th', u'math.QA'])   0
+author,463-author,464|   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+author,463-author,465|   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+author,466-author,406|   set([u'hep-th'])   0
+author,466-author,467|   set([u'hep-th'])   0
+author,468-author,469|   set([u'hep-th'])   0
+author,468-author,470|   set([u'hep-th'])   0
+author,391-author,390|   set([u'hep-th'])   0
+author,471-author,472|   set([u'hep-th', u'gr-qc'])   0
+author,473-author,474|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,473-author,475|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,473-author,163|   set([u'hep-th'])   0
+author,473-author,476|   set([u'hep-th'])   0
+author,473-author,477|   set([u'hep-th', u'math.AG'])   0
+author,473-author,478|   set([u'hep-th'])   0
+author,473-author,479|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,473-author,64|   set([u'hep-th'])   0
+author,480-author,481|   set([u'hep-th', u'hep-lat'])   0
+author,480-author,482|   set([u'hep-th', u'hep-lat'])   0
+author,480-author,483|   set([u'hep-th', u'hep-lat'])   0
+author,397-author,245|   set([u'hep-th', u'hep-lat'])   0
+author,397-author,246|   set([u'hep-th', u'hep-lat'])   0
+author,397-author,398|   set([u'hep-th', u'hep-lat'])   0
+author,234-author,484|   set([u'hep-th'])   0
+author,234-author,485|   set([u'hep-th', u'hep-ph'])   0
+author,486-author,487|   set([u'hep-th', u'hep-ph'])   0
+author,488-author,489|   set([u'hep-th'])   0
+author,488-author,63|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,444-author,490|   set([u'hep-th', u'hep-lat'])   0
+author,491-author,492|   set([u'hep-th', u'hep-lat'])   0
+author,491-author,157|   set([u'hep-th', u'hep-lat'])   0
+author,491-author,493|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,491-author,494|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,491-author,495|   set([u'hep-th', u'hep-lat'])   0
+author,491-author,496|   set([u'hep-th', u'hep-lat'])   0
+author,491-author,497|   set([u'hep-th', u'hep-lat'])   0
+author,491-author,367|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,498-author,499|   set([u'nlin.SI', u'hep-th', u'solv-int', u'astro-ph', u'gr-qc'])   0
+author,498-author,500|   set([u'q-alg', u'hep-th', u'math.DG', u'math.QA', u'dg-ga'])   0
+author,501-author,502|   set([u'hep-th'])   0
+author,501-author,503|   set([u'hep-th'])   0
+author,501-author,504|   set([u'hep-th'])   0
+author,308-author,356|   set([u'cond-mat', u'hep-th', u'q-alg', u'math.QA'])   0
+author,308-author,461|   set([u'cond-mat', u'hep-th', u'q-alg', u'math.QA'])   0
+author,505-author,279|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,505-author,59|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,506-author,411|   set([u'hep-th'])   0
+author,506-author,412|   set([u'hep-th'])   0
+author,507-author,508|   set([u'cond-mat', u'hep-th'])   0
+author,507-author,509|   set([u'hep-th'])   0
+author,510-author,511|   set([u'hep-th', u'hep-ph'])   0
+author,510-author,512|   set([u'hep-th', u'hep-ph'])   0
+author,510-author,513|   set([u'hep-th', u'hep-ph'])   0
+author,514-author,515|   set([u'hep-th'])   0
+author,144-author,516|   set([u'hep-th'])   0
+author,144-author,517|   set([u'hep-th'])   0
+author,144-author,143|   set([u'hep-th'])   0
+author,518-author,519|   set([u'hep-th', u'gr-qc'])   0
+author,242-author,158|   set([u'hep-th'])   0
+author,242-author,45|   set([u'hep-th'])   0
+author,424-author,520|   set([u'hep-th'])   0
+author,424-author,423|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,465-author,464|   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+author,158-author,159|   set([u'hep-th'])   0
+author,158-author,332|   set([u'hep-th'])   0
+author,158-author,41|   set([u'hep-th'])   0
+author,329-author,521|   set([u'hep-th'])   0
+author,329-author,522|   set([u'hep-th'])   0
+author,329-author,327|   set([u'hep-th'])   0
+author,329-author,523|   set([u'hep-th'])   0
+author,329-author,328|   set([u'hep-th'])   0
+author,524-author,423|   set([u'nlin.SI', u'hep-th', u'solv-int', u'gr-qc'])   0
+author,310-author,525|   set([u'hep-th', u'math.QA', u'q-alg'])   0
+author,526-author,267|   set([u'hep-th'])   0
+author,526-author,527|   set([u'hep-th'])   0
+author,526-author,528|   set([u'hep-th'])   0
+author,526-author,529|   set([u'hep-th'])   0
+author,526-author,530|   set([u'hep-th'])   0
+author,526-author,531|   set([u'hep-th'])   0
+author,331-author,532|   set([u'hep-th', u'math.QA'])   0
+author,331-author,334|   set([u'hep-th', u'math.QA'])   0
+author,331-author,64|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,533-author,215|   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+author,533-author,216|   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+author,534-author,484|   set([u'hep-th'])   0
+author,534-author,270|   set([u'hep-th'])   0
+author,178-author,535|   set([u'hep-th', u'hep-ph'])   0
+author,178-author,536|   set([u'hep-th'])   0
+author,178-author,317|   set([u'cond-mat', u'hep-th'])   0
+author,178-author,537|   set([u'hep-th'])   0
+author,538-author,72|   set([u'nlin.SI', u'cond-mat', u'hep-th', u'solv-int'])   0
+author,399-author,539|   set([u'hep-th'])   0
+author,540-author,541|   set([u'hep-th', u'gr-qc'])   0
+author,540-author,542|   set([u'hep-th', u'gr-qc'])   0
+author,208-author,209|   set([u'hep-th'])   0
+author,99-author,98|   set([u'hep-th'])   0
+author,99-author,100|   set([u'hep-th'])   0
+author,99-author,543|   set([u'hep-th'])   0
+author,544-author,545|   set([u'cond-mat', u'hep-th'])   0
+author,544-author,546|   set([u'hep-th'])   0
+author,544-author,547|   set([u'cond-mat', u'hep-th'])   0
+author,183-author,38|   set([u'hep-th'])   0
+author,183-author,548|   set([u'hep-th', u'hep-ph'])   0
+author,183-author,318|   set([u'hep-th'])   0
+author,549-author,550|   set([u'cond-mat', u'hep-th'])   0
+author,549-author,551|   set([u'cond-mat', u'hep-th'])   0
+author,552-author,553|   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+author,452-author,453|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,452-author,454|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,225-author,554|   set([u'hep-th', u'hep-ph'])   0
+author,225-author,555|   set([u'hep-th'])   0
+author,69-author,60|   set([u'hep-th'])   0
+author,69-author,556|   set([u'hep-th'])   0
+author,557-author,558|   set([u'hep-th'])   0
+author,559-author,160|   set([u'hep-th'])   0
+author,559-author,560|   set([u'cond-mat', u'hep-th'])   0
+author,559-author,561|   set([u'cond-mat', u'hep-th'])   0
+author,355-author,241|   set([u'hep-th'])   0
+author,355-author,562|   set([u'hep-th'])   0
+author,355-author,356|   set([u'hep-th'])   0
+author,543-author,119|   set([u'hep-th'])   0
+author,543-author,373|   set([u'hep-th'])   0
+author,563-author,564|   set([u'hep-th'])   0
+author,563-author,63|   set([u'hep-th'])   0
+author,474-author,477|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,474-author,475|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,565-author,566|   set([u'hep-th'])   0
+author,567-author,568|   set([u'hep-th'])   0
+author,569-author,166|   set([u'hep-th'])   0
+author,569-author,570|   set([u'hep-th'])   0
+author,571-author,572|   set([u'hep-th', u'hep-ph'])   0
+author,573-author,228|   set([u'hep-th'])   0
+author,108-author,109|   set([u'hep-th', u'gr-qc'])   0
+author,560-author,574|   set([u'hep-th'])   0
+author,560-author,290|   set([u'cond-mat', u'hep-th'])   0
+author,475-author,477|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,570-author,166|   set([u'hep-th'])   0
+author,45-author,43|   set([u'hep-th'])   0
+author,45-author,44|   set([u'hep-th'])   0
+author,575-author,428|   set([u'hep-th'])   0
+author,575-author,429|   set([u'hep-th'])   0
+author,575-author,430|   set([u'hep-th'])   0
+author,576-author,577|   set([u'hep-th'])   0
+author,576-author,578|   set([u'hep-th', u'alg-geom', u'math.DG', u'dg-ga', u'math.AG'])   0
+author,579-author,580|   set([u'hep-th'])   0
+author,546-author,160|   set([u'hep-th'])   0
+author,458-author,19|   set([u'cond-mat', u'hep-th'])   0
+author,458-author,581|   set([u'hep-th'])   0
+author,582-author,138|   set([u'cond-mat', u'hep-th'])   0
+author,582-author,583|   set([u'cond-mat', u'hep-th'])   0
+author,241-author,383|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,584-author,38|   set([u'hep-th', u'hep-ph'])   0
+author,585-author,586|   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+author,587-author,588|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,587-author,589|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,590-author,591|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,438-author,592|   set([u'hep-th'])   0
+author,401-author,400|   set([u'hep-th'])   0
+author,401-author,593|   set([u'hep-th'])   0
+author,594-author,595|   set([u'hep-th'])   0
+author,596-author,597|   set([u'hep-th', u'gr-qc'])   0
+author,596-author,572|   set([u'hep-th', u'gr-qc'])   0
+author,598-author,599|   set([u'cond-mat', u'hep-th'])   0
+author,598-author,600|   set([u'hep-th', u'hep-ph'])   0
+author,598-author,601|   set([u'cond-mat', u'hep-th'])   0
+author,602-author,418|   set([u'hep-th'])   0
+author,603-author,604|   set([u'nlin.SI', u'cond-mat', u'hep-th', u'solv-int'])   0
+author,603-author,605|   set([u'hep-th'])   0
+author,599-author,601|   set([u'hep-th'])   0
+author,215-author,606|   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+author,215-author,33|   set([u'hep-th'])   0
+author,607-author,422|   set([u'hep-th'])   0
+author,607-author,608|   set([u'hep-th'])   0
+author,609-author,119|   set([u'hep-th'])   0
+author,609-author,610|   set([u'hep-th'])   0
+author,609-author,191|   set([u'hep-th'])   0
+author,609-author,120|   set([u'hep-th'])   0
+author,609-author,199|   set([u'hep-th'])   0
+author,131-author,130|   set([u'hep-th'])   0
+author,131-author,611|   set([u'hep-th'])   0
+author,131-author,612|   set([u'hep-th'])   0
+author,613-author,375|   set([u'hep-th'])   0
+author,613-author,614|   set([u'hep-th'])   0
+author,613-author,615|   set([u'hep-th'])   0
+author,613-author,616|   set([u'hep-th'])   0
+author,333-author,617|   set([u'hep-th', u'math.AG'])   0
+author,618-author,619|   set([u'hep-th'])   0
+author,618-author,620|   set([u'hep-th'])   0
+author,621-author,343|   set([u'hep-th', u'gr-qc'])   0
+author,615-author,614|   set([u'hep-th'])   0
+author,615-author,172|   set([u'hep-th'])   0
+author,615-author,616|   set([u'hep-th'])   0
+author,615-author,375|   set([u'hep-th'])   0
+author,622-author,623|   set([u'hep-th'])   0
+author,622-author,539|   set([u'hep-th'])   0
+author,72-author,73|   set([u'hep-th', u'hep-ph'])   0
+author,624-author,625|   set([u'hep-th'])   0
+author,626-author,627|   set([u'hep-th', u'hep-lat'])   0
+author,626-author,364|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,266-author,112|   set([u'hep-th'])   0
+author,266-author,268|   set([u'hep-th'])   0
+author,610-author,628|   set([u'hep-th'])   0
+author,610-author,191|   set([u'hep-th'])   0
+author,610-author,199|   set([u'hep-th'])   0
+author,232-author,629|   set([u'hep-th'])   0
+author,504-author,159|   set([u'hep-th'])   0
+author,504-author,502|   set([u'hep-th'])   0
+author,504-author,630|   set([u'hep-th'])   0
+author,504-author,631|   set([u'hep-th'])   0
+author,504-author,503|   set([u'hep-th'])   0
+author,504-author,41|   set([u'hep-th'])   0
+author,44-author,43|   set([u'hep-th'])   0
+author,632-author,633|   set([u'hep-th', u'hep-ph'])   0
+author,490-author,446|   set([u'hep-th', u'hep-lat'])   0
+author,490-author,445|   set([u'hep-th', u'hep-lat'])   0
+author,280-author,282|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,555-author,529|   set([u'hep-th'])   0
+author,325-author,326|   set([u'hep-th'])   0
+author,325-author,634|   set([u'hep-th', u'math.QA', u'q-alg'])   0
+author,635-author,636|   set([u'hep-th', u'hep-lat'])   0
+author,635-author,497|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,344-author,528|   set([u'hep-th'])   0
+author,637-author,198|   set([u'hep-th'])   0
+author,638-author,639|   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+author,638-author,640|   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+author,73-author,403|   set([u'hep-th', u'hep-ph'])   0
+author,73-author,641|   set([u'hep-th', u'hep-ph'])   0
+author,404-author,403|   set([u'hep-th'])   0
+author,404-author,405|   set([u'hep-th'])   0
+author,528-author,345|   set([u'hep-th'])   0
+author,528-author,529|   set([u'hep-th'])   0
+author,528-author,374|   set([u'hep-th'])   0
+author,642-author,643|   set([u'hep-th', u'hep-ph'])   0
+author,264-author,644|   set([u'hep-th'])   0
+author,130-author,645|   set([u'hep-th'])   0
+author,130-author,133|   set([u'hep-th'])   0
+author,306-author,646|   set([u'hep-th', u'gr-qc'])   0
+author,306-author,162|   set([u'hep-th'])   0
+author,306-author,17|   set([u'hep-th', u'gr-qc'])   0
+author,306-author,349|   set([u'hep-th', u'gr-qc'])   0
+author,206-author,406|   set([u'hep-th', u'gr-qc'])   0
+author,647-author,648|   set([u'hep-th'])   0
+author,649-author,650|   set([u'hep-th', u'gr-qc'])   0
+author,25-author,651|   set([u'hep-th'])   0
+author,25-author,652|   set([u'hep-th', u'gr-qc'])   0
+author,63-author,478|   set([u'hep-th'])   0
+author,63-author,62|   set([u'hep-th'])   0
+author,63-author,564|   set([u'hep-th'])   0
+author,63-author,164|   set([u'hep-th'])   0
+author,63-author,653|   set([u'hep-th'])   0
+author,654-author,655|   set([u'hep-th', u'hep-ph'])   0
+author,654-author,656|   set([u'cond-mat', u'hep-th'])   0
+author,654-author,657|   set([u'hep-th', u'hep-ph'])   0
+author,654-author,658|   set([u'hep-th', u'hep-ph'])   0
+author,659-author,660|   set([u'hep-th'])   0
+author,258-author,259|   set([u'cond-mat', u'hep-th', u'quant-ph', u'supr-con'])   0
+author,661-author,662|   set([u'hep-th'])   0
+author,222-author,14|   set([u'hep-th'])   0
+author,222-author,223|   set([u'hep-th', u'hep-ph'])   0
+author,663-author,221|   set([u'hep-th'])   0
+author,503-author,664|   set([u'hep-th'])   0
+author,503-author,631|   set([u'hep-th'])   0
+author,503-author,665|   set([u'hep-th'])   0
+author,106-author,105|   set([u'hep-th'])   0
+author,106-author,666|   set([u'hep-th'])   0
+author,315-author,312|   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+author,315-author,313|   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+author,477-author,405|   set([u'hep-th', u'math.AG'])   0
+author,461-author,462|   set([u'hep-th', u'math.QA'])   0
+author,461-author,356|   set([u'cond-mat', u'hep-th', u'q-alg', u'math.QA'])   0
+author,405-author,667|   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+author,668-author,669|   set([u'hep-th', u'gr-qc'])   0
+author,110-author,670|   set([u'hep-th'])   0
+author,110-author,671|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,110-author,672|   set([u'hep-th'])   0
+author,110-author,673|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,110-author,674|   set([u'hep-th'])   0
+author,442-author,675|   set([u'hep-th', u'astro-ph'])   0
+author,442-author,676|   set([u'hep-th'])   0
+author,677-author,678|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,679-author,680|   set([u'hep-th', u'hep-ph'])   0
+author,378-author,164|   set([u'hep-th'])   0
+author,378-author,681|   set([u'hep-th'])   0
+author,682-author,683|   set([u'hep-th'])   0
+author,684-author,685|   set([u'hep-th'])   0
+author,686-author,687|   set([u'hep-th', u'hep-ph'])   0
+author,317-author,179|   set([u'cond-mat', u'hep-th'])   0
+author,688-author,628|   set([u'hep-th', u'gr-qc'])   0
+author,688-author,199|   set([u'hep-th', u'gr-qc'])   0
+author,689-author,690|   set([u'hep-th'])   0
+author,614-author,691|   set([u'hep-th'])   0
+author,692-author,693|   set([u'hep-th', u'gr-qc'])   0
+author,363-author,627|   set([u'hep-th', u'hep-lat'])   0
+author,694-author,19|   set([u'cond-mat', u'hep-th'])   0
+author,694-author,380|   set([u'cond-mat', u'hep-th'])   0
+author,273-author,695|   set([u'hep-th'])   0
+author,273-author,696|   set([u'hep-th'])   0
+author,556-author,697|   set([u'hep-th'])   0
+author,556-author,698|   set([u'hep-th'])   0
+author,556-author,699|   set([u'hep-th'])   0
+author,556-author,700|   set([u'hep-th', u'gr-qc'])   0
+author,701-author,702|   set([u'hep-th'])   0
+author,268-author,703|   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+author,202-author,203|   set([u'hep-th', u'hep-ph'])   0
+author,704-author,705|   set([u'hep-th', u'gr-qc'])   0
+author,704-author,98|   set([u'hep-th', u'gr-qc'])   0
+author,706-author,707|   set([u'hep-th'])   0
+author,706-author,708|   set([u'cond-mat', u'hep-th'])   0
+author,706-author,709|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,710-author,711|   set([u'hep-th'])   0
+author,17-author,199|   set([u'hep-th', u'gr-qc'])   0
+author,712-author,713|   set([u'hep-th', u'gr-qc'])   0
+author,712-author,542|   set([u'hep-th', u'gr-qc'])   0
+author,583-author,138|   set([u'cond-mat', u'hep-th'])   0
+author,583-author,714|   set([u'hep-th', u'cond-mat.mes-hall'])   0
+author,715-author,716|   set([u'hep-th', u'hep-lat'])   0
+author,715-author,717|   set([u'cond-mat', u'hep-th'])   0
+author,233-author,657|   set([u'hep-th'])   0
+author,233-author,236|   set([u'hep-th'])   0
+author,233-author,658|   set([u'hep-th'])   0
+author,698-author,697|   set([u'hep-th'])   0
+author,698-author,163|   set([u'hep-th'])   0
+author,698-author,270|   set([u'hep-th'])   0
+author,76-author,718|   set([u'hep-th'])   0
+author,76-author,719|   set([u'hep-th'])   0
+author,76-author,717|   set([u'hep-th'])   0
+author,433-author,432|   set([u'hep-th', u'hep-ph'])   0
+author,521-author,328|   set([u'hep-th'])   0
+author,521-author,700|   set([u'hep-th'])   0
+author,292-author,720|   set([u'hep-th'])   0
+author,292-author,291|   set([u'hep-th', u'math.QA', u'q-alg'])   0
+author,292-author,33|   set([u'hep-th'])   0
+author,721-author,722|   set([u'hep-th'])   0
+author,721-author,723|   set([u'cond-mat', u'hep-th'])   0
+author,721-author,724|   set([u'cond-mat', u'hep-th'])   0
+author,721-author,725|   set([u'hep-th'])   0
+author,721-author,726|   set([u'cond-mat', u'hep-th'])   0
+author,721-author,65|   set([u'cond-mat', u'hep-th'])   0
+author,727-author,728|   set([u'hep-th'])   0
+author,727-author,729|   set([u'hep-th'])   0
+author,730-author,731|   set([u'hep-th'])   0
+author,730-author,171|   set([u'hep-th'])   0
+author,732-author,733|   set([u'hep-th'])   0
+author,734-author,341|   set([u'hep-th'])   0
+author,734-author,91|   set([u'hep-th', u'gr-qc'])   0
+author,735-author,736|   set([u'hep-th', u'gr-qc'])   0
+author,735-author,550|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,337-author,339|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,337-author,737|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,337-author,340|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,337-author,132|   set([u'hep-th', u'gr-qc'])   0
+author,532-author,738|   set([u'hep-th'])   0
+author,532-author,739|   set([u'hep-th'])   0
+author,532-author,334|   set([u'hep-th', u'math.QA'])   0
+author,740-author,741|   set([u'hep-th'])   0
+author,740-author,742|   set([u'hep-th'])   0
+author,597-author,572|   set([u'hep-th', u'gr-qc'])   0
+author,597-author,743|   set([u'cond-mat', u'hep-th', u'gr-qc'])   0
+author,597-author,744|   set([u'hep-th', u'gr-qc'])   0
+author,597-author,745|   set([u'hep-th', u'gr-qc'])   0
+author,667-author,163|   set([u'hep-th'])   0
+author,667-author,479|   set([u'hep-th'])   0
+author,667-author,64|   set([u'hep-th'])   0
+author,746-author,41|   set([u'hep-th'])   0
+author,541-author,542|   set([u'hep-th', u'gr-qc'])   0
+author,157-author,492|   set([u'hep-th', u'hep-lat'])   0
+author,747-author,748|   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+author,749-author,125|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,750-author,1|   set([u'hep-th'])   0
+author,627-author,492|   set([u'hep-th', u'hep-lat'])   0
+author,167-author,270|   set([u'hep-th'])   0
+author,167-author,751|   set([u'hep-th'])   0
+author,167-author,476|   set([u'hep-th'])   0
+author,167-author,726|   set([u'hep-th'])   0
+author,752-author,753|   set([u'hep-th'])   0
+author,752-author,708|   set([u'hep-th'])   0
+author,652-author,754|   set([u'hep-th', u'math.FA', u'gr-qc', u'funct-an'])   0
+author,652-author,612|   set([u'hep-th'])   0
+author,313-author,312|   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+author,755-author,756|   set([u'cond-mat', u'hep-th'])   0
+author,729-author,757|   set([u'cond-mat', u'hep-th'])   0
+author,341-author,338|   set([u'hep-th'])   0
+author,341-author,629|   set([u'hep-th'])   0
+author,341-author,343|   set([u'hep-th'])   0
+author,341-author,41|   set([u'hep-th'])   0
+author,758-author,741|   set([u'hep-th'])   0
+author,759-author,588|   set([u'hep-th', u'hep-ph'])   0
+author,760-author,761|   set([u'hep-th'])   0
+author,19-author,762|   set([u'hep-th'])   0
+author,19-author,380|   set([u'cond-mat', u'hep-th'])   0
+author,496-author,492|   set([u'hep-th', u'hep-lat'])   0
+author,523-author,327|   set([u'hep-th'])   0
+author,523-author,328|   set([u'hep-th'])   0
+author,523-author,522|   set([u'hep-th'])   0
+author,763-author,764|   set([u'hep-th'])   0
+author,763-author,765|   set([u'hep-th'])   0
+author,669-author,92|   set([u'hep-th'])   0
+author,766-author,133|   set([u'hep-th'])   0
+author,766-author,767|   set([u'hep-th'])   0
+author,768-author,769|   set([u'hep-th'])   0
+author,768-author,719|   set([u'hep-th'])   0
+author,629-author,91|   set([u'hep-th', u'gr-qc'])   0
+author,629-author,770|   set([u'hep-th', u'hep-ph'])   0
+author,629-author,737|   set([u'hep-th'])   0
+author,771-author,22|   set([u'hep-th', u'gr-qc'])   0
+author,772-author,719|   set([u'hep-th'])   0
+author,772-author,769|   set([u'hep-th'])   0
+author,772-author,717|   set([u'hep-th'])   0
+author,529-author,267|   set([u'hep-th'])   0
+author,529-author,531|   set([u'hep-th'])   0
+author,302-author,301|   set([u'hep-th', u'quant-ph', u'hep-ph'])   0
+author,484-author,516|   set([u'hep-th'])   0
+author,33-author,216|   set([u'hep-th'])   0
+author,773-author,185|   set([u'hep-th', u'gr-qc'])   0
+author,774-author,314|   set([u'hep-th', u'hep-ph'])   0
+author,774-author,664|   set([u'hep-th', u'hep-ph'])   0
+author,774-author,775|   set([u'hep-th'])   0
+author,774-author,340|   set([u'hep-th', u'hep-ph'])   0
+author,347-author,776|   set([u'hep-th'])   0
+author,347-author,348|   set([u'hep-th'])   0
+author,492-author,777|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,492-author,593|   set([u'hep-th'])   0
+author,778-author,779|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,778-author,780|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,566-author,781|   set([u'cond-mat', u'hep-th'])   0
+author,566-author,782|   set([u'hep-th'])   0
+author,783-author,163|   set([u'hep-th'])   0
+author,783-author,62|   set([u'hep-th'])   0
+author,784-author,785|   set([u'hep-th'])   0
+author,114-author,786|   set([u'hep-th', u'quant-ph'])   0
+author,114-author,787|   set([u'hep-th', u'quant-ph'])   0
+author,114-author,788|   set([u'hep-th', u'quant-ph'])   0
+author,789-author,30|   set([u'hep-th'])   0
+author,789-author,790|   set([u'hep-th'])   0
+author,789-author,791|   set([u'hep-th'])   0
+author,128-author,129|   set([u'hep-th'])   0
+author,128-author,792|   set([u'hep-th'])   0
+author,793-author,794|   set([u'hep-th', u'hep-ph'])   0
+author,793-author,343|   set([u'hep-th', u'gr-qc'])   0
+author,793-author,361|   set([u'hep-th', u'hep-ph'])   0
+author,795-author,796|   set([u'hep-th', u'hep-lat'])   0
+author,795-author,797|   set([u'hep-th', u'hep-lat'])   0
+author,249-author,798|   set([u'hep-th'])   0
+author,276-author,562|   set([u'hep-th'])   0
+author,276-author,422|   set([u'hep-th'])   0
+author,799-author,800|   set([u'hep-th', u'nucl-th'])   0
+author,765-author,764|   set([u'hep-th'])   0
+author,801-author,802|   set([u'hep-th'])   0
+author,803-author,779|   set([u'hep-th'])   0
+author,716-author,804|   set([u'hep-th', u'hep-lat'])   0
+author,328-author,162|   set([u'hep-th'])   0
+author,328-author,522|   set([u'hep-th'])   0
+author,328-author,700|   set([u'hep-th'])   0
+author,328-author,64|   set([u'hep-th', u'gr-qc'])   0
+author,805-author,806|   set([u'hep-th', u'gr-qc'])   0
+author,499-author,807|   set([u'hep-th'])   0
+author,384-author,382|   set([u'cond-mat', u'hep-th'])   0
+author,384-author,14|   set([u'cond-mat', u'hep-th'])   0
+author,384-author,383|   set([u'cond-mat', u'hep-th'])   0
+author,808-author,586|   set([u'hep-th'])   0
+author,421-author,191|   set([u'hep-th'])   0
+author,809-author,810|   set([u'hep-th'])   0
+author,811-author,812|   set([u'hep-th'])   0
+author,811-author,813|   set([u'hep-th'])   0
+author,23-author,814|   set([u'hep-th'])   0
+author,23-author,815|   set([u'hep-th'])   0
+author,709-author,707|   set([u'hep-th'])   0
+author,709-author,816|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,709-author,708|   set([u'cond-mat', u'hep-th'])   0
+author,817-author,595|   set([u'hep-th'])   0
+author,527-author,818|   set([u'hep-th'])   0
+author,819-author,12|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,343-author,41|   set([u'hep-th'])   0
+author,185-author,186|   set([u'hep-th', u'gr-qc'])   0
+author,218-author,94|   set([u'hep-th'])   0
+author,218-author,92|   set([u'hep-th'])   0
+author,717-author,804|   set([u'cond-mat', u'hep-th'])   0
+author,717-author,769|   set([u'hep-th'])   0
+author,820-author,821|   set([u'hep-th'])   0
+author,782-author,781|   set([u'hep-th'])   0
+author,822-author,823|   set([u'hep-th', u'q-alg', u'gr-qc', u'math.QA'])   0
+author,781-author,824|   set([u'cond-mat', u'hep-th'])   0
+author,481-author,825|   set([u'hep-th', u'hep-lat'])   0
+author,623-author,539|   set([u'hep-th'])   0
+author,785-author,826|   set([u'hep-th'])   0
+author,89-author,88|   set([u'hep-th'])   0
+author,30-author,827|   set([u'hep-th'])   0
+author,30-author,828|   set([u'hep-th'])   0
+author,30-author,791|   set([u'hep-th'])   0
+author,829-author,611|   set([u'hep-th'])   0
+author,829-author,830|   set([u'hep-th'])   0
+author,831-author,832|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,833-author,834|   set([u'hep-th'])   0
+author,835-author,836|   set([u'cond-mat', u'hep-th', u'quant-ph'])   0
+author,281-author,279|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,837-author,653|   set([u'hep-th', u'hep-ph'])   0
+author,837-author,838|   set([u'hep-th'])   0
+author,839-author,840|   set([u'hep-th'])   0
+author,839-author,188|   set([u'hep-th'])   0
+author,841-author,382|   set([u'hep-th', u'hep-ph'])   0
+author,842-author,843|   set([u'nlin.SI', u'cond-mat', u'hep-th', u'solv-int'])   0
+author,105-author,666|   set([u'hep-th'])   0
+author,844-author,845|   set([u'hep-th'])   0
+author,846-author,847|   set([u'hep-th'])   0
+author,846-author,848|   set([u'hep-th'])   0
+author,849-author,561|   set([u'cond-mat', u'hep-th'])   0
+author,127-author,792|   set([u'hep-th'])   0
+author,127-author,850|   set([u'hep-th'])   0
+author,400-author,593|   set([u'hep-th'])   0
+author,586-author,601|   set([u'cond-mat.supr-con', u'hep-th'])   0
+author,383-author,356|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,851-author,589|   set([u'hep-th', u'hep-ph'])   0
+author,453-author,454|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,852-author,673|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,852-author,671|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,3-author,2|   set([u'hep-th'])   0
+author,673-author,853|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,673-author,671|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,854-author,855|   set([u'hep-th'])   0
+author,856-author,857|   set([u'hep-th'])   0
+author,856-author,858|   set([u'hep-th'])   0
+author,340-author,737|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,340-author,775|   set([u'hep-th'])   0
+author,340-author,664|   set([u'hep-th', u'hep-ph'])   0
+author,340-author,339|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,832-author,814|   set([u'hep-th'])   0
+author,639-author,751|   set([u'hep-th'])   0
+author,373-author,372|   set([u'hep-th'])   0
+author,373-author,374|   set([u'hep-th'])   0
+author,859-author,305|   set([u'hep-th', u'hep-ph'])   0
+author,800-author,860|   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+author,800-author,861|   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+author,800-author,862|   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+author,58-author,64|   set([u'hep-th'])   0
+author,58-author,65|   set([u'hep-th'])   0
+author,351-author,352|   set([u'hep-th'])   0
+author,863-author,600|   set([u'hep-th', u'gr-qc'])   0
+author,863-author,60|   set([u'hep-th'])   0
+author,864-author,547|   set([u'cond-mat', u'hep-th'])   0
+author,865-author,326|   set([u'hep-th'])   0
+author,708-author,707|   set([u'hep-th'])   0
+author,708-author,816|   set([u'cond-mat', u'hep-th'])   0
+author,708-author,753|   set([u'hep-th'])   0
+author,92-author,219|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,92-author,94|   set([u'hep-th'])   0
+author,92-author,55|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,866-author,867|   set([u'hep-th', u'hep-ph'])   0
+author,868-author,869|   set([u'hep-th', u'math.FA', u'funct-an'])   0
+author,870-author,871|   set([u'hep-th', u'quant-ph'])   0
+author,870-author,872|   set([u'math-ph', u'gr-qc', u'math.MP', u'q-alg', u'hep-th', u'quant-ph', u'math.QA'])   0
+author,873-author,595|   set([u'hep-th'])   0
+author,874-author,875|   set([u'hep-th', u'math.QA'])   0
+author,840-author,146|   set([u'hep-th'])   0
+author,876-author,147|   set([u'hep-th'])   0
+author,877-author,878|   set([u'hep-th'])   0
+author,877-author,536|   set([u'hep-th'])   0
+author,657-author,879|   set([u'hep-th'])   0
+author,657-author,880|   set([u'hep-th'])   0
+author,657-author,655|   set([u'hep-th', u'hep-ph'])   0
+author,813-author,812|   set([u'hep-th'])   0
+author,162-author,198|   set([u'hep-th'])   0
+author,162-author,700|   set([u'hep-th'])   0
+author,162-author,199|   set([u'hep-th'])   0
+author,375-author,376|   set([u'hep-th', u'hep-ph'])   0
+author,815-author,881|   set([u'cond-mat', u'hep-th'])   0
+author,815-author,814|   set([u'hep-th'])   0
+author,882-author,119|   set([u'hep-th'])   0
+author,882-author,198|   set([u'hep-th'])   0
+author,620-author,883|   set([u'hep-th'])   0
+author,620-author,884|   set([u'hep-th'])   0
+author,830-author,885|   set([u'hep-th'])   0
+author,830-author,611|   set([u'hep-th'])   0
+author,875-author,470|   set([u'hep-th', u'math.QA'])   0
+author,411-author,412|   set([u'hep-th'])   0
+author,886-author,872|   set([u'hep-th', u'math.QA'])   0
+author,713-author,542|   set([u'hep-th', u'gr-qc'])   0
+author,887-author,888|   set([u'hep-th', u'hep-ph'])   0
+author,887-author,889|   set([u'hep-th', u'hep-ph'])   0
+author,890-author,79|   set([u'hep-th'])   0
+author,890-author,77|   set([u'hep-th'])   0
+author,890-author,78|   set([u'hep-th'])   0
+author,890-author,718|   set([u'hep-th'])   0
+author,267-author,374|   set([u'hep-th'])   0
+author,267-author,531|   set([u'hep-th'])   0
+author,591-author,891|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,588-author,589|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,722-author,725|   set([u'hep-th'])   0
+author,780-author,779|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,38-author,79|   set([u'hep-th'])   0
+author,38-author,77|   set([u'hep-th'])   0
+author,38-author,769|   set([u'hep-th'])   0
+author,38-author,41|   set([u'hep-th'])   0
+author,38-author,78|   set([u'hep-th'])   0
+author,696-author,892|   set([u'hep-th', u'gr-qc'])   0
+author,696-author,695|   set([u'hep-th'])   0
+author,512-author,511|   set([u'hep-th', u'hep-ph'])   0
+author,512-author,513|   set([u'hep-th', u'hep-ph'])   0
+author,616-author,691|   set([u'hep-th'])   0
+author,511-author,513|   set([u'hep-th', u'hep-ph'])   0
+author,777-author,593|   set([u'hep-th', u'hep-lat'])   0
+author,893-author,894|   set([u'cond-mat', u'hep-th'])   0
+author,376-author,372|   set([u'hep-th'])   0
+author,376-author,374|   set([u'hep-th'])   0
+author,606-author,216|   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+author,705-author,98|   set([u'hep-th', u'gr-qc'])   0
+author,775-author,664|   set([u'hep-th'])   0
+author,895-author,896|   set([u'hep-th'])   0
+author,897-author,898|   set([u'hep-th', u'gr-qc'])   0
+author,422-author,608|   set([u'hep-th'])   0
+author,881-author,843|   set([u'nlin.SI', u'cond-mat', u'hep-th', u'solv-int'])   0
+author,628-author,152|   set([u'hep-th', u'math.DG', u'math.QA', u'dg-ga', u'q-alg'])   0
+author,628-author,191|   set([u'hep-th'])   0
+author,899-author,322|   set([u'hep-th'])   0
+author,724-author,726|   set([u'cond-mat', u'hep-th'])   0
+author,724-author,65|   set([u'hep-th'])   0
+author,478-author,60|   set([u'hep-th'])   0
+author,478-author,476|   set([u'hep-th'])   0
+author,478-author,164|   set([u'hep-th'])   0
+author,203-author,900|   set([u'hep-th', u'hep-ph'])   0
+author,287-author,901|   set([u'hep-th'])   0
+author,287-author,902|   set([u'hep-th'])   0
+author,275-author,133|   set([u'hep-th'])   0
+author,754-author,767|   set([u'hep-th', u'math.FA', u'gr-qc', u'funct-an'])   0
+author,297-author,903|   set([u'hep-th'])   0
+author,297-author,516|   set([u'hep-th'])   0
+author,904-author,905|   set([u'hep-th', u'gr-qc'])   0
+author,904-author,64|   set([u'hep-th', u'gr-qc'])   0
+author,60-author,62|   set([u'hep-th'])   0
+author,60-author,164|   set([u'hep-th'])   0
+author,120-author,191|   set([u'hep-th'])   0
+author,120-author,199|   set([u'hep-th'])   0
+author,235-author,236|   set([u'hep-th'])   0
+author,79-author,374|   set([u'hep-th'])   0
+author,79-author,719|   set([u'hep-th'])   0
+author,79-author,77|   set([u'hep-th'])   0
+author,79-author,530|   set([u'hep-th'])   0
+author,303-author,198|   set([u'hep-th'])   0
+author,867-author,906|   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+author,907-author,908|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,658-author,655|   set([u'hep-th', u'hep-ph'])   0
+author,612-author,133|   set([u'hep-th'])   0
+author,612-author,767|   set([u'hep-th'])   0
+author,741-author,742|   set([u'hep-th'])   0
+author,741-author,909|   set([u'hep-th'])   0
+author,910-author,653|   set([u'hep-th'])   0
+author,911-author,912|   set([u'hep-th', u'hep-ph'])   0
+author,913-author,914|   set([u'hep-th', u'math.QA'])   0
+author,78-author,718|   set([u'hep-th'])   0
+author,289-author,290|   set([u'cond-mat', u'hep-th'])   0
+author,857-author,915|   set([u'cond-mat', u'hep-th'])   0
+author,857-author,858|   set([u'hep-th'])   0
+author,905-author,64|   set([u'hep-th', u'gr-qc'])   0
+author,814-author,916|   set([u'hep-th'])   0
+author,814-author,725|   set([u'hep-th'])   0
+author,332-author,739|   set([u'hep-th'])   0
+author,332-author,738|   set([u'hep-th'])   0
+author,428-author,430|   set([u'hep-th'])   0
+author,428-author,429|   set([u'hep-th'])   0
+author,917-author,611|   set([u'hep-th'])   0
+author,700-author,745|   set([u'hep-th'])   0
+author,159-author,630|   set([u'hep-th'])   0
+author,159-author,918|   set([u'hep-th'])   0
+author,159-author,41|   set([u'hep-th'])   0
+author,181-author,133|   set([u'hep-th'])   0
+author,919-author,845|   set([u'hep-th'])   0
+author,495-author,920|   set([u'hep-th', u'hep-lat'])   0
+author,889-author,888|   set([u'hep-th', u'hep-ph'])   0
+author,745-author,744|   set([u'hep-th', u'gr-qc'])   0
+author,726-author,65|   set([u'cond-mat', u'hep-th'])   0
+author,921-author,922|   set([u'hep-th'])   0
+author,923-author,924|   set([u'hep-th', u'gr-qc'])   0
+author,791-author,925|   set([u'hep-th'])   0
+author,926-author,645|   set([u'hep-th'])   0
+author,927-author,928|   set([u'hep-th', u'hep-ph'])   0
+author,927-author,675|   set([u'hep-th', u'hep-ph'])   0
+author,929-author,930|   set([u'hep-th'])   0
+author,703-author,931|   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+author,671-author,853|   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+author,62-author,164|   set([u'hep-th'])   0
+author,64-author,98|   set([u'hep-th', u'gr-qc'])   0
+author,932-author,933|   set([u'hep-th'])   0
+author,398-author,245|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,398-author,246|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,65-author,59|   set([u'hep-th'])   0
+author,279-author,934|   set([u'hep-th', u'gr-qc'])   0
+author,935-author,906|   set([u'hep-th', u'hep-ph'])   0
+author,935-author,936|   set([u'hep-th', u'hep-ph'])   0
+author,711-author,937|   set([u'hep-th', u'math.QA', u'hep-ph', u'q-alg'])   0
+author,631-author,502|   set([u'hep-th'])   0
+author,938-author,939|   set([u'hep-th', u'gr-qc'])   0
+author,938-author,940|   set([u'hep-th', u'gr-qc'])   0
+author,558-author,941|   set([u'hep-th'])   0
+author,942-author,548|   set([u'hep-th'])   0
+author,943-author,944|   set([u'hep-th', u'hep-ph'])   0
+author,476-author,743|   set([u'hep-th'])   0
+author,945-author,494|   set([u'hep-th'])   0
+author,945-author,493|   set([u'hep-th'])   0
+author,146-author,189|   set([u'hep-th'])   0
+author,731-author,946|   set([u'hep-th', u'math.QA'])   0
+author,419-author,891|   set([u'hep-th'])   0
+author,419-author,947|   set([u'hep-th'])   0
+author,419-author,845|   set([u'cond-mat', u'hep-th'])   0
+author,948-author,743|   set([u'hep-th', u'hep-ph'])   0
+author,948-author,641|   set([u'hep-th', u'hep-ph'])   0
+author,129-author,792|   set([u'hep-th', u'math.FA', u'funct-an'])   0
+author,119-author,198|   set([u'hep-th'])   0
+author,949-author,937|   set([u'hep-th', u'math.QA', u'hep-ph', u'q-alg'])   0
+author,776-author,348|   set([u'hep-th'])   0
+author,940-author,939|   set([u'hep-th', u'gr-qc'])   0
+author,77-author,719|   set([u'hep-th'])   0
+author,872-author,871|   set([u'hep-th', u'quant-ph'])   0
+author,98-author,59|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,950-author,589|   set([u'hep-th', u'hep-ph'])   0
+author,950-author,951|   set([u'hep-th', u'hep-ph'])   0
+author,916-author,725|   set([u'hep-th'])   0
+author,952-author,728|   set([u'cond-mat', u'hep-th', u'hep-ph'])   0
+author,339-author,737|   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+author,953-author,954|   set([u'hep-th'])   0
+author,953-author,955|   set([u'hep-th'])   0
+author,953-author,163|   set([u'hep-th'])   0
+author,238-author,239|   set([u'hep-th'])   0
+author,221-author,223|   set([u'hep-th', u'hep-ph'])   0
+author,739-author,956|   set([u'hep-th'])   0
+author,133-author,611|   set([u'hep-th'])   0
+author,672-author,918|   set([u'hep-th'])   0
+author,672-author,769|   set([u'hep-th'])   0
+author,672-author,957|   set([u'hep-th'])   0
+author,665-author,956|   set([u'hep-th', u'hep-ph'])   0
+author,665-author,664|   set([u'hep-th'])   0
+author,719-author,769|   set([u'hep-th'])   0
+author,906-author,936|   set([u'hep-th', u'hep-ph'])   0
+author,956-author,738|   set([u'hep-th'])   0
+author,955-author,954|   set([u'hep-th'])   0
+author,508-author,883|   set([u'hep-th'])   0
+author,680-author,958|   set([u'hep-th', u'hep-ph'])   0
+author,959-author,406|   set([u'hep-th', u'hep-ph'])   0
+author,245-author,246|   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+author,796-author,797|   set([u'hep-th', u'hep-lat'])   0
+author,188-author,189|   set([u'hep-th'])   0
+author,860-author,862|   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+author,894-author,960|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,630-author,918|   set([u'hep-th'])   0
+author,630-author,41|   set([u'hep-th'])   0
+author,961-author,962|   set([u'hep-th', u'hep-ph'])   0
+author,55-author,219|   set([u'hep-th', u'q-alg', u'math.QA'])   0
+author,41-author,338|   set([u'hep-th'])   0
+author,41-author,918|   set([u'hep-th'])   0
+author,909-author,742|   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+author,957-author,674|   set([u'hep-th'])   0
+author,430-author,429|   set([u'hep-th'])   0
+author,902-author,901|   set([u'hep-th'])   0
+author,963-author,539|   set([u'hep-th'])   0
+author,403-author,641|   set([u'hep-th', u'hep-ph'])   0
+author,964-author,965|   set([u'hep-th'])   0
+author,850-author,792|   set([u'hep-th'])   0
+author,516-author,903|   set([u'hep-th'])   0
+author,516-author,517|   set([u'hep-th'])   0
+author,525-author,309|   set([u'hep-th', u'math.QA', u'q-alg'])   0
+author,530-author,199|   set([u'hep-th'])   0
+author,966-author,930|   set([u'cond-mat', u'hep-th'])   0
+author,967-author,968|   set([u'hep-th', u'gr-qc'])   0
+author,743-author,489|   set([u'hep-th'])   0
+author,372-author,374|   set([u'hep-th'])   0
+author,198-author,52|   set([u'hep-th'])   0
+author,969-author,970|   set([u'hep-th'])   0
+author,216-author,971|   set([u'hep-th'])   0
+author,972-author,973|   set([u'hep-th'])   0
+author,845-author,891|   set([u'cond-mat', u'hep-th'])   0
+author,6-author,52|   set([u'hep-th'])   0
+author,674-author,918|   set([u'hep-th'])   0
+author,862-author,861|   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+author,314-author,918|   set([u'hep-th'])   0
+author,314-author,974|   set([u'hep-th'])   0
+author,670-author,918|   set([u'hep-th'])   0
+author,975-author,455|   set([u'hep-th'])   0
+author,611-author,976|   set([u'hep-th'])   0
+author,174-author,600|   set([u'hep-th'])   0
+author,174-author,175|   set([u'hep-th'])   0
+author,199-author,52|   set([u'hep-th'])   0
+author,483-author,825|   set([u'hep-th', u'hep-lat'])   0
+author,977-author,568|   set([u'hep-th'])   0
+author,455-author,978|   set([u'hep-th'])   0
+author,175-author,600|   set([u'hep-th'])   0
+author,978-author,757|   set([u'hep-th'])   0
+author,979-author,517|   set([u'hep-th'])   0

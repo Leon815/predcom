@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="ano" attr.type="int" for="edge" id="d1" />
+  <key attr.name="palavra-chave" attr.type="string" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Anderson" />
+    <node id="Camila" />
+    <node id="Diego" />
+    <node id="Ricardo" />
+    <node id="Leandro" />
+    <node id="Igor" />
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2016</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2016</data>
+    </edge>
+	
+
+
+
+
+
+
+
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2018</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2018</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2018</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2018</data>
+    </edge>
+	
+
+    <edge source="Anderson" target="Camila">
+      <data key="d0">set([u'grafos'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Diego" target="Ricardo">
+      <data key="d0">set([u'IA'])</data>
+      <data key="d1">2018</data>
+    </edge>
+
+    <edge source="Leandro" target="Igor">
+      <data key="d0">set([u'Redes'])</data>
+      <data key="d1">2018</data>
+    </edge>
+	
+	
+  </graph>
+</graphml>

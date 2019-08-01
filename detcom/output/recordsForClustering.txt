@@ -1,0 +1,1167 @@
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.FA', u'funct-an'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'quant-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'math.DG', u'math.QA', u'dg-ga', u'q-alg'])   0
+   set([u'math.MP', u'hep-th', u'math-ph', u'q-alg', u'math.QA'])   0
+   set([u'math.MP', u'hep-th', u'math-ph', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'nucl-th', u'gr-qc', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'quant-ph', u'supr-con'])   0
+   set([u'cond-mat', u'hep-th', u'quant-ph', u'supr-con'])   0
+   set([u'hep-ex', u'hep-th', u'hep-ph'])   0
+   set([u'hep-ex', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA', u'q-alg'])   0
+   set([u'hep-th', u'math.QA', u'q-alg'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'quant-ph', u'hep-ph'])   0
+   set([u'hep-th', u'quant-ph', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'nucl-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA', u'q-alg'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'cond-mat.stat-mech'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.AG'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA', u'q-alg'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.AG'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'nlin.SI', u'hep-th', u'solv-int', u'astro-ph', u'gr-qc'])   0
+   set([u'q-alg', u'hep-th', u'math.DG', u'math.QA', u'dg-ga'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'cond-mat', u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'nlin.SI', u'hep-th', u'solv-int', u'gr-qc'])   0
+   set([u'hep-th', u'math.QA', u'q-alg'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'nlin.SI', u'cond-mat', u'hep-th', u'solv-int'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'alg-geom', u'math.DG', u'dg-ga', u'math.AG'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'nlin.SI', u'cond-mat', u'hep-th', u'solv-int'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.AG'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA', u'q-alg'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'quant-ph', u'supr-con'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+   set([u'hep-th', u'math.AG'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'cond-mat', u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'alg-geom', u'math.AG'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'cond-mat.mes-hall'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA', u'q-alg'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.FA', u'gr-qc', u'funct-an'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'quant-ph', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'quant-ph'])   0
+   set([u'hep-th', u'quant-ph'])   0
+   set([u'hep-th', u'quant-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'nucl-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'gr-qc', u'math.QA'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'quant-ph'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'nlin.SI', u'cond-mat', u'hep-th', u'solv-int'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat.supr-con', u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'math.FA', u'funct-an'])   0
+   set([u'hep-th', u'quant-ph'])   0
+   set([u'math-ph', u'gr-qc', u'math.MP', u'q-alg', u'hep-th', u'quant-ph', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'nlin.SI', u'hep-th', u'solv-int'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'nlin.SI', u'cond-mat', u'hep-th', u'solv-int'])   0
+   set([u'hep-th', u'math.DG', u'math.QA', u'dg-ga', u'q-alg'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.FA', u'gr-qc', u'funct-an'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'astro-ph', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat', u'hep-ph'])   0
+   set([u'hep-th', u'astro-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'math.QA', u'hep-ph', u'q-alg'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'math.FA', u'funct-an'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA', u'hep-ph', u'q-alg'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'quant-ph'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'astro-ph', u'hep-ph', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'hep-lat', u'gr-qc'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th', u'q-alg', u'math.QA'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'math.QA', u'q-alg'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th', u'gr-qc'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'cond-mat', u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'gr-qc', u'hep-ph'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th', u'hep-lat'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
+   set([u'hep-th'])   0
