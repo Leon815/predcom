@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<DynamicNetwork xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation = "DyNetML.xsd">
+<MetaNetwork>
+<nodes>
+<nodeclass type = "author" id = "author" >
+<node id="0">
+<properties>
+<property name="name" type="string" value="Anderson"/>
+</properties>
+</node>
+<node id="1">
+<properties>
+<property name="name" type="string" value="Camila"/>
+</properties>
+</node>
+<node id="2">
+<properties>
+<property name="name" type="string" value="Diego"/>
+</properties>
+</node>
+<node id="3">
+<properties>
+<property name="name" type="string" value="Ricardo"/>
+</properties>
+</node>
+<node id="4">
+<properties>
+<property name="name" type="string" value="Leandro"/>
+</properties>
+</node>
+<node id="5">
+<properties>
+<property name="name" type="string" value="Igor"/>
+</properties>
+</node>
+</nodeclass >
+</nodes>
+<networks>
+<network sourceType = "author" targetType = "author" id = "author x author" isDirected = "false">
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2016"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="0" target="1">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'grafos'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="2" target="3">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'IA'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+<link source="4" target="5">
+<properties>
+<property name="bagOfWords" type="string" value="set([u'Redes'])"/>
+<property name="year" type="string" value="2018"/>
+</properties>
+</link>
+</network>
+</networks>
+</MetaNetwork>
+</DynamicNetwork>

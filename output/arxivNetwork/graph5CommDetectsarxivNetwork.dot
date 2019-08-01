@@ -1,0 +1,40 @@
+/*****
+Grafo5 arxivNetwork com as comunidades detectadas por DetCon
+*****/
+
+graph G {
+  graph [splines=true overlap=false]
+  node  [shape=ellipse, width=0.3, height=0.3]
+  842 [label="FABIAN H L ESSLER",style=filled, fillcolor="#504597"];
+  843 [label="ALEXANDER R ITS",style=filled, fillcolor="#504597"];
+  340 [label="P C ARGYRES",style=filled, fillcolor="#B5CF6B"];
+  737 [label="L THORLACIUS",style=filled, fillcolor="#B5CF6B"];
+  278 [label="DAVID H LYTH",style=filled, fillcolor="#63D256"];
+  279 [label="DAVID WANDS",style=filled, fillcolor="#7A27DE"];
+  881 [label="VLADIMIR E KOREPIN",style=filled, fillcolor="#504597"];
+  339 [label="S B GIDDINGS",style=filled, fillcolor="#B5CF6B"];
+  337 [label="V FROLOV",style=filled, fillcolor="#B5CF6B"];
+  39 [label="D A LOWE",style=filled, fillcolor="#B5CF6B"];
+  281 [label="EWAN D STEWART",style=filled, fillcolor="#BF30CF"];
+  505 [label="ANDREI LINDE",style=filled, fillcolor="#B74336"];
+  260 [label="J ELLIS",style=filled, fillcolor="#AA99E4"];
+  262 [label="D NANOPOULOS",style=filled, fillcolor="#AA99E4"];
+  261 [label="J LOPEZ",style=filled, fillcolor="#AA99E4"];
+  842 -- 843;
+  843 -- 881;
+  340 -- 737;
+  278 -- 279;
+  279 -- 281;
+  279 -- 505;
+  339 -- 340;
+  339 -- 737;
+  337 -- 339;
+  337 -- 340;
+  337 -- 737;
+  39 -- 337;
+  39 -- 339;
+  39 -- 340;
+  260 -- 261;
+  260 -- 262;
+  label = "\nGrafo5 arxivNetwork com as comunidades detectadas por DetCon\n";  fontsize=24;
+}

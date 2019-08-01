@@ -1,0 +1,75 @@
+/*****
+Grafo3 arxivNetwork com as comunidades detectadas por DetCon
+*****/
+
+graph G {
+  graph [splines=true overlap=false]
+  node  [shape=ellipse, width=0.3, height=0.3]
+  831 [label="BARRY M MCCOY",style=filled, fillcolor="#C41683"];
+  832 [label="ANNE SCHILLING",style=filled, fillcolor="#C41683"];
+  217 [label="V SCHOMERUS",style=filled, fillcolor="#1212D5"];
+  219 [label="L D FADDEEV",style=filled, fillcolor="#1212D5"];
+  308 [label="D ARNAUDON",style=filled, fillcolor="#5DB311"];
+  461 [label="C CHRYSSOMALAKOS",style=filled, fillcolor="#5DB311"];
+  709 [label="H AWATA",style=filled, fillcolor="#8CBB9A"];
+  816 [label="J SHIRAISHI",style=filled, fillcolor="#8CBB9A"];
+  204 [label="A J MACFARLANE",style=filled, fillcolor="#583AD5"];
+  155 [label="R S DUNNE",style=filled, fillcolor="#583AD5"];
+  55 [label="J FROHLICH",style=filled, fillcolor="#1212D5"];
+  241 [label="P SORBA",style=filled, fillcolor="#0F18F1"];
+  383 [label="S SCIUTO",style=filled, fillcolor="#0F18F1"];
+  307 [label="A CHAKRABARTI",style=filled, fillcolor="#988E00"];
+  310 [label="N DEBERGH",style=filled, fillcolor="#988E00"];
+  706 [label="S ODAKE",style=filled, fillcolor="#8CBB9A"];
+  356 [label="L FRAPPAT",style=filled, fillcolor="#5DB311"];
+  822 [label="A DIMAKIS",style=filled, fillcolor="#58685F"];
+  823 [label="K BRESSER",style=filled, fillcolor="#58685F"];
+  591 [label="GUSTAV W DELIUS",style=filled, fillcolor="#872EB8"];
+  891 [label="YAOZHONG ZHANG",style=filled, fillcolor="#872EB8"];
+  92 [label="A YU ALEKSEEV",style=filled, fillcolor="#1212D5"];
+  353 [label="CHONGYING DONG",style=filled, fillcolor="#61E5A9"];
+  354 [label="JAMES LEPOWSKY",style=filled, fillcolor="#61E5A9"];
+  151 [label="J A DE AZCARRAGA",style=filled, fillcolor="#E9DAD3"];
+  153 [label="F J HERRANZ",style=filled, fillcolor="#E9DAD3"];
+  677 [label="T KOBAYASHI",style=filled, fillcolor="#6CA589"];
+  678 [label="HT SATO",style=filled, fillcolor="#6CA589"];
+  749 [label="ALEXANDER A VORONOV",style=filled, fillcolor="#D7D505"];
+  125 [label="TAKASHI KIMURA",style=filled, fillcolor="#D7D505"];
+  309 [label="J BECKERS",style=filled, fillcolor="#988E00"];
+  154 [label="M SANTANDER",style=filled, fillcolor="#E9DAD3"];
+  124 [label="JOSE M FIGUEROAOFARRILL",style=filled, fillcolor="#D7D505"];
+  894 [label="HARUNOBU KUBO",style=filled, fillcolor="#E4DF31"];
+  960 [label="HIDETOSHI AWATA",style=filled, fillcolor="#E4DF31"];
+  498 [label="M BORDEMANN",style=filled, fillcolor="#428B36"];
+  500 [label="C EMMRICH",style=filled, fillcolor="#428B36"];
+  590 [label="MARK D GOULD",style=filled, fillcolor="#872EB8"];
+  831 -- 832;
+  217 -- 219;
+  308 -- 356;
+  308 -- 461;
+  709 -- 816;
+  155 -- 204;
+  55 -- 92;
+  55 -- 217;
+  55 -- 219;
+  241 -- 383;
+  307 -- 309;
+  307 -- 310;
+  706 -- 709;
+  356 -- 383;
+  356 -- 461;
+  822 -- 823;
+  591 -- 891;
+  92 -- 219;
+  353 -- 354;
+  151 -- 153;
+  151 -- 154;
+  151 -- 155;
+  677 -- 678;
+  125 -- 749;
+  124 -- 125;
+  894 -- 960;
+  498 -- 500;
+  590 -- 591;
+  label = "\nGrafo3 arxivNetwork com as comunidades detectadas por DetCon\n";  fontsize=24;
+}
